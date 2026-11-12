@@ -1,0 +1,49 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Odisha,Mayurbhanja,Baripada APMC,Cabbage,Cabbage,Medium,17/09/2026,3500,4000,3800
+Chattisgarh,Khairagarh Chhuikhadan Gandai,Kheragarh APMC,Bengal Gram(Gram)(Whole),Bold,Non-FAQ,17/09/2026,4400,4600,4500
+Tripura,Dhalai,Kulai APMC,Indian Beans(Seam),Other,Grade B,17/09/2026,7500,8000,7700
+Tripura,Dhalai,Kulai APMC,Banana - Green,Banana - Green,Grade B,17/09/2026,2000,2500,2300
+Keralam,Kozhikode(Calicut),Mukkom Market,Orange,Other,Large,17/09/2026,10500,11500,11000
+Keralam,Kozhikode(Calicut),Mukkom Market,Snakeguard,Snakeguard,FAQ,17/09/2026,3400,3600,3500
+Keralam,Kozhikode(Calicut),Mukkom Market,Ginger(Green),Green Ginger,FAQ,17/09/2026,16000,17000,16500
+Keralam,Kozhikode(Calicut),Mukkom Market,Onion,Onion,FAQ,17/09/2026,5000,5400,5200
+Keralam,Kozhikode(Calicut),Mukkom Market,Cucumbar(Kheera),Cucumbar,FAQ,17/09/2026,1600,2000,1800
+Keralam,Kozhikode(Calicut),Mukkom Market,Cowpea(Veg),Cowpea (Veg),FAQ,17/09/2026,6400,6800,6600
+Punjab,Ludhiana,Ludhiana APMC,Mango,Dashahari,FAQ,14/10/2026,6000,8000,7000
+Punjab,Ludhiana,Ludhiana APMC,Wheat,Kanak/Wheat,FAQ,17/09/2026,2400,2800,2600
+Punjab,Ludhiana,Khanna APMC,Wheat,Dara,FAQ,17/09/2026,2450,2750,2620
+Haryana,Karnal,Karnal APMC,Wheat,Kanak,FAQ,17/09/2026,2350,2650,2480
+Haryana,Ambala,Ambala APMC,Wheat,Other,FAQ,17/09/2026,2380,2700,2520
+Madhya Pradesh,Indore,Indore APMC,Wheat,Sharbati,Grade A,17/09/2026,2400,2900,2650
+Uttar Pradesh,Kanpur,Kanpur APMC,Wheat,Dara,FAQ,17/09/2026,2300,2600,2450
+Rajasthan,Kota,Kota APMC,Wheat,Mill Quality,FAQ,17/09/2026,2400,2750,2550
+Punjab,Jalandhar,Jalandhar APMC,Potato,Kufri Jyoti,Grade A,17/09/2026,1600,2100,1850
+Punjab,Ludhiana,Ludhiana APMC,Potato,Other,FAQ,17/09/2026,1700,2200,1900
+Uttar Pradesh,Agra,Agra APMC,Potato,Desi,FAQ,17/09/2026,1400,1900,1650
+West Bengal,Hooghly,Hooghly APMC,Potato,Jyoti,FAQ,17/09/2026,1500,2000,1750
+Madhya Pradesh,Indore,Indore APMC,Potato,Chipsona,Grade A,17/09/2026,1500,2100,1800
+Maharashtra,Nashik,Nashik APMC,Tomato,Hybrid,Grade A,17/09/2026,2600,3400,3000
+Maharashtra,Pune,Pune APMC,Tomato,Local,FAQ,17/09/2026,2800,3600,3150
+Karnataka,Kolar,Kolar APMC,Tomato,Tomato,FAQ,17/09/2026,2500,3200,2800
+Punjab,Ludhiana,Ludhiana APMC,Tomato,Desi,FAQ,17/09/2026,2800,3800,3300
+Haryana,Karnal,Karnal APMC,Tomato,Hybrid,Grade A,17/09/2026,2700,3500,3100
+Punjab,Bathinda,Bathinda APMC,Mustard,Sarson,Grade A,17/09/2026,5200,5800,5500
+Punjab,Mansa,Mansa APMC,Mustard,Mustard,FAQ,17/09/2026,5150,5750,5450
+Rajasthan,Bharatpur,Bharatpur APMC,Mustard,Mustard,FAQ,17/09/2026,5300,5900,5600
+Rajasthan,Alwar,Alwar APMC,Mustard,Yellow Mustard,Grade A,17/09/2026,5250,5850,5550
+Haryana,Hisar,Hisar APMC,Mustard,Mustard,FAQ,17/09/2026,5200,5750,5480
+Maharashtra,Nashik,Lasalgaon APMC,Onion,Red Onion,Grade A,17/09/2026,4800,5600,5250
+Maharashtra,Pune,Pune APMC,Onion,Onion,FAQ,17/09/2026,4900,5700,5300
+Madhya Pradesh,Indore,Indore APMC,Onion,Nasik,FAQ,17/09/2026,4600,5400,5000
+Punjab,Ludhiana,Ludhiana APMC,Onion,Other,FAQ,17/09/2026,5200,6000,5600
+Punjab,Amritsar,Amritsar APMC,Rice,Basmati 1121,Grade A,17/09/2026,3000,3800,3400
+Punjab,Ludhiana,Ludhiana APMC,Rice,PR 126,FAQ,17/09/2026,2950,3750,3350
+Haryana,Karnal,Karnal APMC,Rice,Basmati,Grade A,17/09/2026,3100,4000,3500
+Punjab,Bathinda,Bathinda APMC,Cotton,American Cotton,Medium,17/09/2026,6800,7600,7200
+Gujarat,Rajkot,Rajkot APMC,Cotton,Shankar-6,Grade A,17/09/2026,7000,7800,7400
+Punjab,Ludhiana,Ludhiana APMC,Maize,Yellow,FAQ,17/09/2026,2100,2500,2300
+Karnataka,Davanagere,Davanagere APMC,Maize,Hybrid,FAQ,17/09/2026,2000,2400,2200
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Garlic,Desi,Grade A,17/09/2026,9000,13000,11000
+Punjab,Jalandhar,Jalandhar APMC,Green Peas,Matar,FAQ,17/09/2026,3500,4500,4000
+Punjab,Ludhiana,Ludhiana APMC,Cauliflower,Phool Gobhi,FAQ,17/09/2026,2000,2800,2400
+Madhya Pradesh,Indore,Indore APMC,Soyabean,Yellow,FAQ,17/09/2026,4400,4900,4650
