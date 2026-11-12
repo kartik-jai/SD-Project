@@ -1,0 +1,11 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+Odisha,Mayurbhanja,"Baripada APMC",Cabbage,Cabbage,Medium,17/09/2026,3500,4000,3800
+Chattisgarh,"Khairagarh Chhuikhadan Gandai","Kheragarh APMC","Bengal Gram(Gram)(Whole)",Bold,Non-FAQ,17/09/2026,4400,4600,4500
+Tripura,Dhalai,"Kulai APMC","Indian Beans(Seam)",Other,"Grade B",17/09/2026,7500,8000,7700
+Tripura,Dhalai,"Kulai APMC","Banana - Green","Banana - Green","Grade B",17/09/2026,2000,2500,2300
+Keralam,Kozhikode(Calicut),"Mukkom Market",Orange,Other,Large,17/09/2026,10500,11500,11000
+Keralam,Kozhikode(Calicut),"Mukkom Market",Snakeguard,Snakeguard,FAQ,17/09/2026,3400,3600,3500
+Keralam,Kozhikode(Calicut),"Mukkom Market",Ginger(Green),"Green Ginger",FAQ,17/09/2026,16000,17000,16500
+Keralam,Kozhikode(Calicut),"Mukkom Market",Onion,Onion,FAQ,17/09/2026,5000,5400,5200
+Keralam,Kozhikode(Calicut),"Mukkom Market",Cucumbar(Kheera),Cucumbar,FAQ,17/09/2026,1600,2000,1800
+Keralam,Kozhikode(Calicut),"Mukkom Market",Cowpea(Veg),"Cowpea (Veg)",FAQ,17/09/2026,6400,6800,6600
